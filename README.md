@@ -1,2 +1,4 @@
 # practice_one
-practice
+
+This is the respository for practice.
+
